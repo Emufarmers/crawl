@@ -67,8 +67,8 @@ static const map<job_type, job_def> job_data =
       { SK_WEAPON, 1 }, { SK_STEALTH, 1 }, },
 } },
 
-{ JOB_ASSASSIN, {
-    "As", "Assassin",
+{ JOB_BANDIT, {
+    "Ba", "Bandit",
     3, 3, 6,
     { SP_TROLL, SP_HALFLING, SP_SPRIGGAN, SP_DEMONSPAWN, SP_VAMPIRE,
       SP_VINE_STALKER, },

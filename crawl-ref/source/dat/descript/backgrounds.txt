@@ -19,9 +19,9 @@ Artificer
 Artificers start with a few magical devices and are competent at using such
 tools.
 %%%%
-Assassin
+Bandit
 
-Assassins carry poisoned darts and a small number of nasty curare darts.
+Bandits carry poisoned darts and a small number of nasty curare darts.
 %%%%
 Berserker
 
